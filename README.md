@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I'm Amal. 👋
 
-<!--
-**AmalDjibo/AmalDjibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a aspring teen web developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ... my web development portfolio
+- 🌱 I’m currently learning ... frontend web devlopment
+- 🤔 I’m looking for help with ... writing more efficent code
+- 💬 Ask me about ... HTML & CSS
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I was born in Italy
+                  
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+
+
+[website]: https:/amaldjibo.com
+[twitter]: https://twitter.com/amaldjibo_
+[instagram]: https://instagram.com/amaldjibo    
