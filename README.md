@@ -1,6 +1,6 @@
 ### Hi, I'm Amal. 👋
 
-## I am a aspring teen web developer
+## I am an aspring teen web developer
 
 Here are some ideas to get you started:
 
