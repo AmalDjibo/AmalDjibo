@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 📷 [instagram][instagram] **|** 
 
 
-[website]: https:/amaldjibo.com
+[website]: https:/www.amaldjibo.com
 [twitter]: https://twitter.com/amaldjibo_
 [instagram]: https://instagram.com/amaldjibo    
